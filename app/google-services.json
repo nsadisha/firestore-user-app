@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "884090305085",
+    "project_id": "seproject-5c52c",
+    "storage_bucket": "seproject-5c52c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884090305085:android:9eb0888c525ff916cb0854",
+        "android_client_info": {
+          "package_name": "com.nsadisha.android.firebasestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884090305085-ch9g0e1e9nsr9pv0s9frl1vpi6c9cj7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe2_7EdJwLvpJncIjUmExJajcEQ5Trtw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884090305085-ch9g0e1e9nsr9pv0s9frl1vpi6c9cj7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
